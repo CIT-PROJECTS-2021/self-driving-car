@@ -1,6 +1,3 @@
-# This Code is Heavily Inspired By The YouTuber: Cheesy AI
-# Code Changed, Optimized And Commented By: NeuralNine (Florian Dedov)
-
 import math
 import random
 import sys
@@ -13,8 +10,8 @@ import pygame
 # WIDTH = 1600
 # HEIGHT = 880
 
-WIDTH = 1920
-HEIGHT = 1080
+WIDTH = 1280
+HEIGHT = 720
 
 CAR_SIZE_X = 60    
 CAR_SIZE_Y = 60
